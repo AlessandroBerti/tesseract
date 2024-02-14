@@ -1,0 +1,2 @@
+tesseract --tessdata-dir /usr/share imagename outputbase -l eng --psm 3
+tesseract prova.tiff test -l ita pdf
